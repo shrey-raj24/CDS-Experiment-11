@@ -9,7 +9,7 @@ VS Code
 ##### Theory 
 Class -> A class is a user-defined data type, which holds its own data members and member functions, which can be accessed and used by creating an instance of that class. <br> 
 
-Object-> When a class is defined, only the specification for the object is defined, no memory or storage is allocated. To use the data and access functions defined in the clss, we need to create objects. <br> 
+Object-> When a class is defined, only the specification for the object is defined, no memory or storage is allocated. To use the data and access functions defined in the class, we need to create objects. <br> 
 
 In C++, there are three access specifiers that are: <br> 
 (1) Public: Members declared as public can be accessed from outside the class. <br> 
