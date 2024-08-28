@@ -7,7 +7,7 @@ To study and implement Classes and Objects.
 VS Code 
 
 ##### Theory 
-Class -> A class is a usser-defined data type, which holds its own data members and member functions, which can be accessed and used by creating an instance of that class. <br> 
+Class -> A class is a user-defined data type, which holds its own data members and member functions, which can be accessed and used by creating an instance of that class. <br> 
 
 Object-> When a class is defined, only the specification for the object is defined, no memory or storage is allocated. To use the data and access functions defined in the clss, we need to create objects. <br> 
 
