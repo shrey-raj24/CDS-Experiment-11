@@ -40,6 +40,11 @@ int main()
 
 (B) <br> 
 ```
+
+// NAME - SHREY RAJ
+// PRN - 23070123123
+// EXPERIMENT - 11(B) 
+
 # include<iostream>
 using namespace std;
 class cuboid
@@ -59,6 +64,10 @@ int main()
     c1.volume();
   
 }
+
+// Output 
+// Volume 24 
+
 ```
 
 (C) <br> 
